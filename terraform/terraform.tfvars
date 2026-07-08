@@ -9,8 +9,8 @@ vpc_name = "practice-vpc"
 vpc_cidr = "10.0.0.0/16"
 
 availability_zones = [
-  "us-east-1a",
-  "us-east-1b"
+  "ap-south-1a",
+  "ap-south-1b"
 ]
 
 private_subnets = [
